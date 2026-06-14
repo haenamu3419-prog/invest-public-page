@@ -1,0 +1,53 @@
+{
+  "updated": "2026-06-14 15:39 KST",
+  "macro": [
+    {
+      "name": "미국채 30년물",
+      "unit": "pct",
+      "cur": 4.95,
+      "prev": 5.03
+    },
+    {
+      "name": "미국채 10년물",
+      "unit": "pct",
+      "cur": 4.45,
+      "prev": 4.55
+    },
+    {
+      "name": "미국채 2년물",
+      "unit": "pct",
+      "cur": 4.05,
+      "prev": 4.13
+    },
+    {
+      "name": "연준 기준금리",
+      "unit": "pct",
+      "cur": 3.62,
+      "prev": 3.62
+    },
+    {
+      "name": "WTI 유가",
+      "unit": "usd",
+      "cur": 95.0,
+      "prev": 94.32
+    },
+    {
+      "name": "브렌트유",
+      "unit": "usd",
+      "cur": 97.46,
+      "prev": 97.29
+    },
+    {
+      "name": "원/달러",
+      "unit": "won",
+      "cur": 1555.96,
+      "prev": 1531.91
+    },
+    {
+      "name": "VIX",
+      "unit": "pt",
+      "cur": 19.44,
+      "prev": 22.22
+    }
+  ]
+}
