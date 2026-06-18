@@ -1,29 +1,29 @@
 {
-  "updated": "2026-06-17 23:26 KST",
+  "updated": "2026-06-18 09:17 KST",
   "macro": [
     {
       "name": "미국채 30년물",
       "unit": "pct",
-      "cur": 4.97,
+      "cur": 4.93,
       "prev": 4.97
     },
     {
       "name": "미국채 10년물",
       "unit": "pct",
-      "cur": 4.47,
-      "prev": 4.48
+      "cur": 4.43,
+      "prev": 4.47
     },
     {
       "name": "미국채 2년물",
       "unit": "pct",
-      "cur": 4.07,
-      "prev": 4.09
+      "cur": 4.05,
+      "prev": 4.07
     },
     {
       "name": "연준 기준금리",
       "unit": "pct",
       "cur": 3.63,
-      "prev": 3.62
+      "prev": 3.63
     },
     {
       "name": "WTI 유가",
