@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 09:00 KST",
+  "updated": "2026-07-16 14:28 KST",
   "macro": [
     {
       "name": "미국채 30년물",
@@ -34,9 +34,8 @@
     {
       "name": "브렌트유",
       "unit": "usd",
-      "cur": null,
-      "prev": null,
-      "err": "504 Server Error: Gateway Time-out for url: https://api.stlouisfed.org/fred/series/observations?series_id=DCOILBRENTEU&api_key=6fe631a187fbb39a65df33c278c4f008&file_type=json&sort_order=desc&limit=12"
+      "cur": 81.62,
+      "prev": 74.34
     },
     {
       "name": "원/달러",
@@ -47,9 +46,8 @@
     {
       "name": "VIX",
       "unit": "pt",
-      "cur": null,
-      "prev": null,
-      "err": "502 Server Error: Bad Gateway for url: https://api.stlouisfed.org/fred/series/observations?series_id=VIXCLS&api_key=6fe631a187fbb39a65df33c278c4f008&file_type=json&sort_order=desc&limit=12"
+      "cur": 16.5,
+      "prev": 17.16
     }
   ]
 }
