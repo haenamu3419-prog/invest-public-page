@@ -1,41 +1,42 @@
 {
-  "updated": "2026-07-15 21:12 KST",
+  "updated": "2026-07-16 09:00 KST",
   "macro": [
     {
       "name": "미국채 30년물",
       "unit": "pct",
-      "cur": 5.1,
-      "prev": 5.06
+      "cur": 5.08,
+      "prev": 5.1
     },
     {
       "name": "미국채 10년물",
       "unit": "pct",
-      "cur": 4.62,
-      "prev": 4.56
+      "cur": 4.58,
+      "prev": 4.62
     },
     {
       "name": "미국채 2년물",
       "unit": "pct",
-      "cur": 4.26,
-      "prev": 4.21
+      "cur": 4.18,
+      "prev": 4.26
     },
     {
       "name": "연준 기준금리",
       "unit": "pct",
-      "cur": 3.62,
+      "cur": 3.63,
       "prev": 3.62
     },
     {
       "name": "WTI 유가",
       "unit": "usd",
-      "cur": 69.6,
-      "prev": 69.73
+      "cur": 79.2,
+      "prev": 72.45
     },
     {
       "name": "브렌트유",
       "unit": "usd",
-      "cur": 69.56,
-      "prev": 68.68
+      "cur": null,
+      "prev": null,
+      "err": "504 Server Error: Gateway Time-out for url: https://api.stlouisfed.org/fred/series/observations?series_id=DCOILBRENTEU&api_key=6fe631a187fbb39a65df33c278c4f008&file_type=json&sort_order=desc&limit=12"
     },
     {
       "name": "원/달러",
@@ -46,8 +47,9 @@
     {
       "name": "VIX",
       "unit": "pt",
-      "cur": 17.16,
-      "prev": 15.03
+      "cur": null,
+      "prev": null,
+      "err": "502 Server Error: Bad Gateway for url: https://api.stlouisfed.org/fred/series/observations?series_id=VIXCLS&api_key=6fe631a187fbb39a65df33c278c4f008&file_type=json&sort_order=desc&limit=12"
     }
   ]
 }
