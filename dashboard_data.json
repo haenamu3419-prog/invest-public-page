@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20 09:00 KST",
+  "updated": "2026-07-20 14:56 KST",
   "macro": [
     {
       "name": "미국채 30년물",
@@ -28,9 +28,8 @@
     {
       "name": "WTI 유가",
       "unit": "usd",
-      "cur": null,
-      "prev": null,
-      "err": "502 Server Error: Bad Gateway for url: https://api.stlouisfed.org/fred/series/observations?series_id=DCOILWTICO&api_key=6fe631a187fbb39a65df33c278c4f008&file_type=json&sort_order=desc&limit=12"
+      "cur": 79.2,
+      "prev": 72.45
     },
     {
       "name": "브렌트유",
