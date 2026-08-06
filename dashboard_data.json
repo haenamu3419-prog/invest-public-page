@@ -1,41 +1,43 @@
 {
-  "updated": "2026-08-05 21:49 KST",
+  "updated": "2026-08-06 09:01 KST",
   "macro": [
     {
       "name": "미국채 30년물",
       "unit": "pct",
-      "cur": 5.23,
-      "prev": 5.27
+      "cur": null,
+      "prev": null,
+      "err": "502 Server Error: Bad Gateway for url: https://api.stlouisfed.org/fred/series/observations?series_id=DGS30&api_key=6fe631a187fbb39a65df33c278c4f008&file_type=json&sort_order=desc&limit=12"
     },
     {
       "name": "미국채 10년물",
       "unit": "pct",
-      "cur": 4.7,
-      "prev": 4.75
+      "cur": 4.63,
+      "prev": 4.7
     },
     {
       "name": "미국채 2년물",
       "unit": "pct",
-      "cur": 4.25,
-      "prev": 4.28
+      "cur": 4.2,
+      "prev": 4.25
     },
     {
       "name": "연준 기준금리",
       "unit": "pct",
-      "cur": 3.63,
-      "prev": 3.63
+      "cur": null,
+      "prev": null,
+      "err": "502 Server Error: Bad Gateway for url: https://api.stlouisfed.org/fred/series/observations?series_id=DFF&api_key=6fe631a187fbb39a65df33c278c4f008&file_type=json&sort_order=desc&limit=12"
     },
     {
       "name": "WTI 유가",
       "unit": "usd",
-      "cur": 84.25,
-      "prev": 91.74
+      "cur": 81.96,
+      "prev": 86.16
     },
     {
       "name": "브렌트유",
       "unit": "usd",
-      "cur": 91.82,
-      "prev": 100.31
+      "cur": 88.9,
+      "prev": 96.95
     },
     {
       "name": "원/달러",
@@ -46,8 +48,8 @@
     {
       "name": "VIX",
       "unit": "pt",
-      "cur": 15.86,
-      "prev": 15.99
+      "cur": 16.5,
+      "prev": 15.86
     }
   ]
 }
