@@ -1,41 +1,42 @@
 {
-  "updated": "2026-09-02 23:57 KST",
+  "updated": "2026-09-03 10:00 KST",
   "macro": [
     {
       "name": "미국채 30년물",
       "unit": "pct",
-      "cur": 5.25,
-      "prev": 5.22
+      "cur": 5.27,
+      "prev": 5.25
     },
     {
       "name": "미국채 10년물",
       "unit": "pct",
-      "cur": 4.75,
-      "prev": 4.73
+      "cur": 4.79,
+      "prev": 4.75
     },
     {
       "name": "미국채 2년물",
       "unit": "pct",
-      "cur": 4.34,
+      "cur": 4.39,
       "prev": 4.34
     },
     {
       "name": "연준 기준금리",
       "unit": "pct",
-      "cur": 3.63,
-      "prev": 3.63
+      "cur": null,
+      "prev": null,
+      "err": "502 Server Error: Bad Gateway for url: https://api.stlouisfed.org/fred/series/observations?series_id=DFF&api_key=6fe631a187fbb39a65df33c278c4f008&file_type=json&sort_order=desc&limit=12"
     },
     {
       "name": "WTI 유가",
       "unit": "usd",
-      "cur": 83.9,
-      "prev": 86.34
+      "cur": 91.48,
+      "prev": 87.03
     },
     {
       "name": "브렌트유",
       "unit": "usd",
-      "cur": 88.24,
-      "prev": 92.71
+      "cur": 96.02,
+      "prev": 89.75
     },
     {
       "name": "원/달러",
