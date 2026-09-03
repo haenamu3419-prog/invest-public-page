@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 10:00 KST",
+  "updated": "2026-09-03 16:24 KST",
   "macro": [
     {
       "name": "미국채 30년물",
@@ -22,9 +22,8 @@
     {
       "name": "연준 기준금리",
       "unit": "pct",
-      "cur": null,
-      "prev": null,
-      "err": "502 Server Error: Bad Gateway for url: https://api.stlouisfed.org/fred/series/observations?series_id=DFF&api_key=6fe631a187fbb39a65df33c278c4f008&file_type=json&sort_order=desc&limit=12"
+      "cur": 3.63,
+      "prev": 3.63
     },
     {
       "name": "WTI 유가",
