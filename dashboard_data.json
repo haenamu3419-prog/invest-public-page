@@ -1,11 +1,12 @@
 {
-  "updated": "2026-09-17 10:09 KST",
+  "updated": "2026-09-17 17:00 KST",
   "macro": [
     {
       "name": "미국채 30년물",
       "unit": "pct",
-      "cur": 5.36,
-      "prev": 5.34
+      "cur": null,
+      "prev": null,
+      "err": "502 Server Error: Bad Gateway for url: https://api.stlouisfed.org/fred/series/observations?series_id=DGS30&api_key=6fe631a187fbb39a65df33c278c4f008&file_type=json&sort_order=desc&limit=12"
     },
     {
       "name": "미국채 10년물",
@@ -22,9 +23,8 @@
     {
       "name": "연준 기준금리",
       "unit": "pct",
-      "cur": null,
-      "prev": null,
-      "err": "HTTPSConnectionPool(host='api.stlouisfed.org', port=443): Read timed out. (read timeout=20)"
+      "cur": 3.63,
+      "prev": 3.63
     },
     {
       "name": "WTI 유가",
