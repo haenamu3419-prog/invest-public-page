@@ -1,53 +1,61 @@
 {
-  "updated": "2026-10-21 21:51 KST",
+  "updated": "2026-10-22 00:49 KST",
   "macro": [
     {
       "name": "미국채 30년물",
       "unit": "pct",
-      "cur": 5.48,
-      "prev": 5.43
+      "cur": null,
+      "prev": null,
+      "err": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "name": "미국채 10년물",
       "unit": "pct",
-      "cur": 5.15,
-      "prev": 5.09
+      "cur": null,
+      "prev": null,
+      "err": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "name": "미국채 2년물",
       "unit": "pct",
-      "cur": 4.77,
-      "prev": 4.74
+      "cur": null,
+      "prev": null,
+      "err": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "name": "연준 기준금리",
       "unit": "pct",
-      "cur": 3.88,
-      "prev": 3.88
+      "cur": null,
+      "prev": null,
+      "err": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "name": "WTI 유가",
       "unit": "usd",
-      "cur": 101.91,
-      "prev": 100.86
+      "cur": null,
+      "prev": null,
+      "err": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "name": "브렌트유",
       "unit": "usd",
-      "cur": 126.55,
-      "prev": 125.78
+      "cur": null,
+      "prev": null,
+      "err": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "name": "원/달러",
       "unit": "won",
-      "cur": 1334.03,
-      "prev": 1343.31
+      "cur": null,
+      "prev": null,
+      "err": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "name": "VIX",
       "unit": "pt",
-      "cur": 18.44,
-      "prev": 19.99
+      "cur": null,
+      "prev": null,
+      "err": "Expecting value: line 1 column 1 (char 0)"
     }
   ]
 }
