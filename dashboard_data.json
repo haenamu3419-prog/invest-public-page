@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-21 03:57 KST",
+  "updated": "2026-11-23 12:34 KST",
   "macro": [
     {
       "name": "미국채 30년물",
       "unit": "pct",
-      "cur": 5.41,
-      "prev": 5.46
+      "cur": 5.4,
+      "prev": 5.41
     },
     {
       "name": "미국채 10년물",
       "unit": "pct",
-      "cur": 5.07,
-      "prev": 5.1
+      "cur": 5.04,
+      "prev": 5.07
     },
     {
       "name": "미국채 2년물",
       "unit": "pct",
-      "cur": 4.8,
+      "cur": 4.76,
       "prev": 4.8
     },
     {
